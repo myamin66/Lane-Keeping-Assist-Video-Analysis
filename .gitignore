@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated full-length videos (large, recreate with run_lka.py)
+output/
+
+# Local hand-in folder and its zip (copies of files that are already in the repo)
+Submission/
+*.zip
+
+# Word lock files
+~$*
